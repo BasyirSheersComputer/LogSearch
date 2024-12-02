@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\LogSearch\LogSearch\obj\Debug\net6.0-windows\LogSearch.vbproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\LogSearch\LogSearch\obj\Debug\net6.0-windows\LogSearch.vbproj.GenerateResource.cache
+C:\Users\Admin\source\repos\LogSearch\LogSearch\obj\Debug\net6.0-windows\LogSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\LogSearch\LogSearch\obj\Debug\net6.0-windows\LogSearch.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\LogSearch\LogSearch\obj\Debug\net6.0-windows\LogSearch.AssemblyInfo.vb
+C:\Users\Admin\source\repos\LogSearch\LogSearch\obj\Debug\net6.0-windows\LogSearch.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\LogSearch\LogSearch\bin\Debug\net6.0-windows\LogSearch.exe
+C:\Users\Admin\source\repos\LogSearch\LogSearch\bin\Debug\net6.0-windows\LogSearch.deps.json
+C:\Users\Admin\source\repos\LogSearch\LogSearch\bin\Debug\net6.0-windows\LogSearch.runtimeconfig.json
+C:\Users\Admin\source\repos\LogSearch\LogSearch\bin\Debug\net6.0-windows\LogSearch.dll
+C:\Users\Admin\source\repos\LogSearch\LogSearch\bin\Debug\net6.0-windows\LogSearch.pdb
+C:\Users\Admin\source\repos\LogSearch\LogSearch\obj\Debug\net6.0-windows\LogSearch.dll
+C:\Users\Admin\source\repos\LogSearch\LogSearch\obj\Debug\net6.0-windows\refint\LogSearch.dll
+C:\Users\Admin\source\repos\LogSearch\LogSearch\obj\Debug\net6.0-windows\LogSearch.pdb
+C:\Users\Admin\source\repos\LogSearch\LogSearch\obj\Debug\net6.0-windows\LogSearch.genruntimeconfig.cache
+C:\Users\Admin\source\repos\LogSearch\LogSearch\obj\Debug\net6.0-windows\ref\LogSearch.dll
+C:\Users\Admin\source\repos\LogSearch\LogSearch\obj\Debug\net6.0-windows\LogSearch.LogSearchForm.resources
